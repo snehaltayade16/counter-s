@@ -1,4 +1,4 @@
-# Counter-sd
-Counter Web By Snehal
+# Counter-st
+Counter Web By Snehal Tayade
 <h3>Website Link:</h3>
-https://counter-sd.netlify.app
+https://counter-st.netlify.app
