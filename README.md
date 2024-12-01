@@ -1,4 +1,4 @@
-# Counter
-Counter Web By Divyash
+# Counter-sd
+Counter Web By Snehal
 <h3>Website Link:</h3>
-https://counter-web.herokuapp.com/
+https://counter-sd.netlify.app
